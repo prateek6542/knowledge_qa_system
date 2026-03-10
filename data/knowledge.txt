@@ -1,0 +1,9 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of AI that enables systems to learn from data.
+
+Deep Learning uses neural networks with many layers.
+
+Retrieval Augmented Generation (RAG) combines information retrieval with LLMs to produce grounded responses.
+
+Embeddings convert text into numerical vectors so machines can understand semantic meaning.
